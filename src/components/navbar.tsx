@@ -43,7 +43,7 @@ export default function NavBar() {
 }
 
 
-function InstagramIcon(props) {
+function InstagramIcon(props: any) {
   return (
     <svg
       {...props}
@@ -65,7 +65,7 @@ function InstagramIcon(props) {
 }
 
 
-function MountainIcon(props) {
+function MountainIcon(props: any) {
   return (
     <svg
       {...props}
@@ -85,7 +85,7 @@ function MountainIcon(props) {
 }
 
 
-function TwitterIcon(props) {
+function TwitterIcon(props: any) {
   return (
     <svg
       {...props}
